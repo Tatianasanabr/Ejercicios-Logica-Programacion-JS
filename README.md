@@ -1,2 +1,2 @@
-# Ejercicios-Logica-Programacion-JS
+# Ejercicios-Lógica-Programación-JS
 Practice 👩🏻‍💻 
